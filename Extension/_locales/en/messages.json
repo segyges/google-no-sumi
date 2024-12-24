@@ -1,10 +1,10 @@
 {
   "extension_name": {
-    "message": "REPLACEME",
+    "message": "AI-blocker",
     "description": "The display name for the extension."
   },
   "extension_description": {
-    "message": "REPLACEME",
+    "message": "Blocks AI summaries in Google",
     "description": "Description of what the extension does."
   }
 }

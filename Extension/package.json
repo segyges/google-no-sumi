@@ -1,7 +1,7 @@
 {
-  "name": "REPLACEME",
+  "name": "AI-Blocker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Blocks AI summaries in Google",
   "main": "background.js",
   "scripts": {
     "format": "prettier --write .",
@@ -11,7 +11,7 @@
     "build:firefox": "node scripts/firefox-build.js"
   },
   "keywords": [],
-  "author": "REPLACEME",
+  "author": "SE Gyges",
   "license": "MIT",
   "devDependencies": {
     "@tsconfig/svelte": "^5.0.0",
